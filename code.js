@@ -75,6 +75,8 @@
             tbody.appendChild(tr);
             table.appendChild(tbody);
             document.getElementById('data').appendChild(table);
+            $("#output tr:first").addClass("Hig");
+            $("#output tr:first td:first").css("width", "200px");
         }
 
         /**
