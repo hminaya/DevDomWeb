@@ -1,0 +1,5 @@
+c:\Proyectos\d\DevDomWeb\bin\DevDomWeb.dll
+c:\Proyectos\d\DevDomWeb\bin\DevDomWeb.pdb
+c:\Proyectos\d\DevDomWeb\obj\Debug\ResolveAssemblyReference.cache
+c:\Proyectos\d\DevDomWeb\obj\Debug\DevDomWeb.dll
+c:\Proyectos\d\DevDomWeb\obj\Debug\DevDomWeb.pdb

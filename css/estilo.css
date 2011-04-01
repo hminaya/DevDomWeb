@@ -1,0 +1,59 @@
+        body
+        {
+            width: 960px;
+            margin: 0 auto;
+            font-family: Calibri,Georgia, 'Nimbus Roman No9 L' , 'Liberation Serif' , serif;
+            font-size: 14px;
+            background: #0D2E4C;
+            color: #E6EAED;
+        }
+        h1 {
+padding: 40px 0 30px;
+margin: 0;
+font-size: 50px;
+line-height: 1.2em;
+font-weight: normal;
+text-shadow: 0 2px 2px black;
+font-family: Georgia, serif;
+}
+h3 {
+font-size: 1.5em;
+margin: 0 0 0.7em;
+padding-top: 1.5em;
+}
+h2, h3 {
+font-family: Arial, sans-serif;
+text-shadow: 0 1px 1px black;
+}
+ul {
+list-style: square;
+line-height: 1.6em;
+margin-bottom: 1.25em;
+}
+.Int
+{
+    color: #FFC76D;
+    font-family: Arial, sans-serif;
+text-shadow: 0 1px 1px black;
+font-size: 18px;
+font-weight: bold;
+    }
+    a:hover, a.active {
+color: #FFC76D;
+}
+a {
+color: orange;
+text-decoration: none;
+font-weight: bold;
+}
+.Hig
+{
+color: orange;
+text-decoration: none;
+font-weight: bold;
+    
+    }
+#output
+{
+    width:100%;
+    }
