@@ -3,3 +3,8 @@ c:\Proyectos\d\DevDomWeb\bin\DevDomWeb.pdb
 c:\Proyectos\d\DevDomWeb\obj\Debug\ResolveAssemblyReference.cache
 c:\Proyectos\d\DevDomWeb\obj\Debug\DevDomWeb.dll
 c:\Proyectos\d\DevDomWeb\obj\Debug\DevDomWeb.pdb
+C:\Proyectos\DevDomWeb\bin\DevDomWeb.dll
+C:\Proyectos\DevDomWeb\bin\DevDomWeb.pdb
+C:\Proyectos\DevDomWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\DevDomWeb\obj\Debug\DevDomWeb.dll
+C:\Proyectos\DevDomWeb\obj\Debug\DevDomWeb.pdb

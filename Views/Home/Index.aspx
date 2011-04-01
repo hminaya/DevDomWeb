@@ -1,8 +1,9 @@
+﻿<%@ Page Language="C#" Inherits="System.Web.Mvc.ViewPage<dynamic>" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>Developers Dominicanos - Code Jam 2011</title>
-<link rel="stylesheet" type="text/css" href="estilo.css" />
+<link rel="stylesheet" type="text/css" href="/css/estilo.css" />
 <script type="text/javascript">
 
     var _gaq = _gaq || [];
@@ -16,12 +17,12 @@
     })();
 
 </script>
-    <script type="text/javascript" src="code.js"></script>
+    <script type="text/javascript" src="/js/code.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
         <script type="text/javascript">
             $(function (data) {
                 displayResults();
-                
+
             });
     </script>
 
@@ -133,19 +134,26 @@ Tengo las certificaciones MCTS en Windows, Web, Distributed, Sql Server 2005 y W
 <ul>
 <li>Primeramente seria el “echa vaineo”, que al parecer esta en altos niveles en el grupo en estos momentos</li>
 <li>Suscripción anual de <a href="http://tekpub.com/" target="_blank">TekPub</a>, valorado en US$279.00</li>
-<li>50€ (si euros!), cortesia de <a href="http://animealacarta.com" target="_blank">AnimeaLaCarta.com</a></li>
+<li>60€ (si euros!), cortesia de <a href="http://animealacarta.com" target="_blank">AnimeaLaCarta.com</a></li>
 <li>Un Visual Studio 2010 Ultimate con Suscripción MSDN (todo online), cortesia de <a href="http://www.facebook.com/MSCafeTV" target="_blank">Microsoft Cafe TV</a>, valorada en <a href="#">US$11,899.00</a></li>
-<li>Un regalo sorpresa, cortesia de <a href="http://www.agilisa.com" target="_blank">Agilisa Technologies</a>, valorado en <a href="#">RD$5,000.00</a></li>
+<li>Estos regalos: <a href="http://on.fb.me/gpbVHr">click aqui</a> , cortesia de <a href="http://www.agilisa.com" target="_blank">Agilisa Technologies</a></li>
 <li>Un ejemplar de "Invierta y Hágase Rico en la Bolsa", cortesia de <a href="http://www.amazon.com/Invierta-H%C3%A1gase-Rico-Bolsa-cualquier/dp/9945875507/ref=sr_1_1?ie=UTF8&s=books&qid=1301109172&sr=8-1" target="_blank">Eugenio Duarte</a> para cada miembro del equipo ganador</li>
+<li>100€ (si euros!), cortesia de <a href="http://twitter.com/#!/RobinsonHernan">Robinson Hernandez</a></li>
+<li>3 licencias de la versión full de ComponentOne Studio enterprise, cortesia de <a href="http://www.componentone.com/">ComponentOne</a>, valoradas en US$1,495.00 cada una</li>
 </ul>
 Si eres empresa y deseas ayudar escribeme a hminaya@gmail.com.
 <h3>Patrocinadores</h3>
-    <a href="http://tekpub.com/" target="_blank"><img src="tekpub_log.png" alt="TekPub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="http://animealacarta.com" target="_blank"><img src="LogoALC.png" alt="Anime a la Carta" style="height: 99px; width: 101px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="http://www.facebook.com/MSCafeTV" target="_blank"><img src="mscafe.jpg" alt="MS Cafe TV" style="height: 99px; width: 101px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="http://www.agilisa.com" target="_blank"><img src="agilisa_med.png" alt="Agilisa"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="http://www.amazon.com/Invierta-H%C3%A1gase-Rico-Bolsa-cualquier/dp/9945875507/ref=sr_1_1?ie=UTF8&s=books&qid=1301109172&sr=8-1" target="_blank"><img src="Eduarte.jpg" alt="Eugenio Duarte"/></a>
-    <br /><br />
+<div style="text-align:center;">
+    <a href="http://tekpub.com/" target="_blank"><img src="/img/tekpub_log.png" alt="TekPub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="http://www.facebook.com/MSCafeTV" target="_blank"><img src="/img/mscafe.jpg" alt="MS Cafe TV" style="height: 99px; width: 101px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="http://www.agilisa.com" target="_blank"><img src="/img/agilisa_med.png" alt="Agilisa"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="http://www.componentone.com/" target="_blank"><img src="/img/componentone_logo_vertical_black.png" alt="ComponentOne" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <br />    
+    <a href="http://www.amazon.com/Invierta-H%C3%A1gase-Rico-Bolsa-cualquier/dp/9945875507/ref=sr_1_1?ie=UTF8&s=books&qid=1301109172&sr=8-1" target="_blank"><img src="/img/Eduarte.jpg" alt="Eugenio Duarte"/></a>
+    <a href="http://animealacarta.com" target="_blank"><img src="/img/LogoALC.png" alt="Anime a la Carta" style="height: 99px; width: 101px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <br />
+    </div>
+    <br />
     <h2>Buena suerte a todos!!!!</h2>
     </div>
     
