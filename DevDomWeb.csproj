@@ -68,9 +68,11 @@
     <Content Include="css\estilo.css" />
     <Content Include="Global.asax" />
     <Content Include="img\agilisa_med.png" />
+    <Content Include="img\componentone_logo_vertical_black.png" />
     <Content Include="img\Eduarte.jpg" />
     <Content Include="img\logo.jpg" />
     <Content Include="img\LogoALC.png" />
+    <Content Include="img\logo_resharper.gif" />
     <Content Include="img\mscafe.jpg" />
     <Content Include="img\tekpub_log.png" />
     <Content Include="js\code.js" />
