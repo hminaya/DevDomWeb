@@ -131,17 +131,48 @@ Tengo las certificaciones MCTS en Windows, Web, Distributed, Sql Server 2005 y W
 </ul>
 
 <h3>¿Premios?</h3>
-<ul>
-    <li>Primeramente seria el “echa vaineo”, que al parecer esta en altos niveles en el grupo en estos momentos</li>
-    <li>Suscripción anual de <a href="http://tekpub.com/" target="_blank">TekPub</a>, valorado en US$279.00</li>
-    <li>60€ (si euros!), cortesia de <a href="http://animealacarta.com" target="_blank">AnimeaLaCarta.com</a></li>
-    <li>Un Visual Studio 2010 Ultimate con Suscripción MSDN (todo online), cortesia de <a href="http://www.facebook.com/MSCafeTV" target="_blank">Microsoft Cafe TV</a>, valorada en <a href="#">US$11,899.00</a></li>
-    <li>Estos regalos: <a href="http://on.fb.me/gpbVHr">click aqui</a> , cortesia de <a href="http://www.agilisa.com" target="_blank">Agilisa Technologies</a></li>
-    <li>Un ejemplar de "Invierta y Hágase Rico en la Bolsa", cortesia de <a href="http://www.amazon.com/Invierta-H%C3%A1gase-Rico-Bolsa-cualquier/dp/9945875507/ref=sr_1_1?ie=UTF8&s=books&qid=1301109172&sr=8-1" target="_blank">Eugenio Duarte</a> para cada miembro del equipo ganador</li>
-    <li>100€ (si euros!), cortesia de <a href="http://twitter.com/#!/RobinsonHernan">Robinson Hernandez</a></li>
-    <li>3 licencias de la versión full de ComponentOne Studio enterprise, cortesia de <a href="http://www.componentone.com/">ComponentOne</a>, valoradas en US$1,495.00 cada una</li>
-    <li>Una licencia de  <a href="http://www.jetbrains.com/resharper/" target="_blank">ReSharper</a>, valorada en US$199.00</li>
-</ul>
+        <table border="1" cellpadding="0" cellspacing="0">
+            <tr>
+                <td valign="middle" align="center">
+                    <b>1er. Lugar</b>
+                </td>
+                <td>
+                    <ul>
+                        <li>(1) Suscripción anual de <a href="http://tekpub.com/" target="_blank">TekPub</a>, valorado en US$279.00</li>
+                        <li>Un Visual Studio 2010 Ultimate con Suscripción MSDN (todo online), cortesia de <a href="http://www.facebook.com/MSCafeTV" target="_blank">Microsoft Cafe TV</a>, valorada en <a href="#">US$11,899.00</a></li>
+                        <li>1 licencia de la versión full de ComponentOne Studio enterprise, cortesia de <a href="http://www.componentone.com/">ComponentOne</a>, valorada en US$1,495.00</li>
+                        <li>Una licencia de  <a href="http://www.jetbrains.com/resharper/" target="_blank">ReSharper</a>, valorada en US$199.00</li>
+                        <li>(3) USB drive, (2) Camara, (1) Mouse, (2) Audifonos, cortesia de <a href="http://www.agilisa.com" target="_blank">Agilisa Technologies</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td valign="middle" align="center">
+                    <b>2do. Lugar</b>
+                </td>
+                <td>
+                    <ul>
+                        <li>Una Suscripción de un mes de <a href="http://tekpub.com/" target="_blank">TekPub</a> para cada miembro del equipo</li>
+                        <li>1 licencia de la versión full de ComponentOne Studio enterprise, cortesia de <a href="http://www.componentone.com/">ComponentOne</a>, valorada en US$1,495.00</li>
+                        <li>160€ (si euros!), cortesia de <a href="http://twitter.com/#!/RobinsonHernan">Robinson Hernandez</a> & <a href="http://animealacarta.com" target="_blank">AnimeaLaCarta.com</a></li>
+                        <li>(1) USB drive, (1) Camara, (1) Mouse, (1) Audifono, cortesia de <a href="http://www.agilisa.com" target="_blank">Agilisa Technologies</a></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td valign="middle" align="center">
+                    <b>3er. Lugar</b>
+                </td>
+                <td>
+                    <ul>
+                        <li>(2) Suscripciones de un mes de <a href="http://tekpub.com/" target="_blank">TekPub</a></li>
+                        <li>1 licencia de la versión full de ComponentOne Studio enterprise, cortesia de <a href="http://www.componentone.com/">ComponentOne</a>, valorada en US$1,495.00</li>
+                        <li>Un ejemplar de "Invierta y Hágase Rico en la Bolsa", cortesia de <a href="http://www.amazon.com/Invierta-H%C3%A1gase-Rico-Bolsa-cualquier/dp/9945875507/ref=sr_1_1?ie=UTF8&s=books&qid=1301109172&sr=8-1" target="_blank">Eugenio Duarte</a> para cada miembro del equipo ganador</li>
+                        <li>(1) USB drive, (1) Camara, (1) Mouse, cortesia de <a href="http://www.agilisa.com" target="_blank">Agilisa Technologies</a></li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
 Si eres empresa y deseas ayudar escribeme a hminaya@gmail.com.
 <h3>Patrocinadores</h3>
 <div style="text-align:center;">
