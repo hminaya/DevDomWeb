@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <publishData>
   <publishProfile publishUrl="C:\Users\hminaya.TSS2\Dropbox\DevDom" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="DropBox Publish...." publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
-    <file relUrl="img/logo_resharper.gif" publishTime="04/05/2011 10:53:11" />
+    <file relUrl="Web.config" publishTime="04/05/2011 11:00:05" />
     <file relUrl="img/tekpub_log.png" publishTime="04/01/2011 14:37:25" />
     <file relUrl="img/logo.jpg" publishTime="04/01/2011 14:37:25" />
     <file relUrl="img/Eduarte.jpg" publishTime="04/01/2011 14:37:25" />
-    <file relUrl="Views/Home/Index.aspx" publishTime="04/06/2011 16:00:22" />
-    <file relUrl="bin/DevDomWeb.dll" publishTime="04/05/2011 10:54:15" />
+    <file relUrl="Views/Home/Index.aspx" publishTime="04/06/2011 22:59:02" />
+    <file relUrl="bin/DevDomWeb.dll" publishTime="04/06/2011 22:41:20" />
     <file relUrl="Views/Shared/Error.aspx" publishTime="04/01/2011 14:40:40" />
-    <file relUrl="test.htm" publishTime="04/01/2011 14:37:25" />
+    <file relUrl="css/estilo.css" publishTime="04/06/2011 22:59:23" />
     <file relUrl="img/agilisa_med.png" publishTime="04/01/2011 14:37:25" />
     <file relUrl="js/code.js" publishTime="04/01/2011 14:37:25" />
-    <file relUrl="Web.config" publishTime="04/05/2011 11:00:05" />
     <file relUrl="img/LogoALC.png" publishTime="04/01/2011 14:37:25" />
     <file relUrl="Views/Web.config" publishTime="04/01/2011 14:40:40" />
+    <file relUrl="js/code-min.js" publishTime="04/06/2011 22:40:55" />
     <file relUrl="img/mscafe.jpg" publishTime="04/01/2011 14:37:25" />
-    <file relUrl="Readme.txt" publishTime="04/01/2011 15:11:53" />
+    <file relUrl="Readme.txt" publishTime="04/06/2011 22:38:04" />
     <file relUrl="Global.asax" publishTime="04/01/2011 14:40:40" />
     <file relUrl="img/componentone_logo_vertical_black.png" publishTime="04/01/2011 14:52:49" />
-    <file relUrl="css/estilo.css" publishTime="04/01/2011 14:37:25" />
-    <file relUrl="bin/DevDomWeb.pdb" publishTime="04/05/2011 10:54:15" />
+    <file relUrl="img/logo_resharper.gif" publishTime="04/05/2011 10:53:11" />
+    <file relUrl="bin/DevDomWeb.pdb" publishTime="04/06/2011 22:41:20" />
   </publishProfile>
 </publishData>

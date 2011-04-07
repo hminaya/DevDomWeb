@@ -17,7 +17,7 @@
     })();
 
 </script>
-    <script type="text/javascript" src="/js/code.js"></script>
+    <script type="text/javascript" src="/js/code-min.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
         <script type="text/javascript">
             $(function (data) {
@@ -44,7 +44,7 @@ Eres elegible si cumples con los siguientes requerimientos al momento de registr
 </ul>
 
 <h3>¿Cómo Registrarse?</h3>
-Para registrarse deben llenar el siguiente formulario: <a href="https://spreadsheets.google.com/viewform?authkey=CMzsn4QD&authkey=CMzsn4QD&hl=en&hl=en&formkey=dHd6Uy04QVR1bnJYWkxqcV9xNE5TaGc6MQ#gid=0" target="_blank">click aqui</a>, los equipos registrados serán publicados en esta misma página una vez se cierre el proceso de registro.
+El proceso de registro se cerro el 6 de Abril.
 
 <h3>Fechas Importantes</h3>
 <ul>
@@ -56,6 +56,9 @@ Para registrarse deben llenar el siguiente formulario: <a href="https://spreadsh
 <li>15/Abril – Publicaremos los ganadores</li>
 </ul>
 
+<h3>¿Qué vamos a programar?</h3>
+El caso de negocios esta publicado <span class="Aqui"><a target="_blank" href="https://docs.google.com/document/pub?id=1xOVpSwbAvdGNy5dKpvtO3yJAEZ2VYEhw-I-hbmAL5fY">aqui</a></span>.
+
 <h3>Equipos</h3>
 <ul>
 <li>Todo el proceso es virtual, asi que podran estar ubicados en cualquier lugar</li>
@@ -65,9 +68,6 @@ Para registrarse deben llenar el siguiente formulario: <a href="https://spreadsh
 <h3>Equipos - Registrados</h3>
 <div id="data">
 </div>
-
-<h3>¿Qué vamos a programar?</h3>
-Se va a publicar en esta misma página un caso de negocios el día 7 de Abril. Se planteara el problema que debe resolverse y se le dará suficientes libertades para que cada equipo pueda arribar a una solución propia que resuelva este problema. A partir de ese momento cada equipo tendrá 4 dias para resolver el problema, programarlo y entregar su solución.
 
 <h3>Especificaciones</h3>
 <ol>
@@ -131,7 +131,7 @@ Tengo las certificaciones MCTS en Windows, Web, Distributed, Sql Server 2005 y W
 </ul>
 
 <h3>¿Premios?</h3>
-        <table border="1" cellpadding="0" cellspacing="0">
+        <table border="1" cellpadding="0" cellspacing="0" width="100%">
             <tr>
                 <td valign="middle" align="center">
                     <b>1er. Lugar</b>
@@ -173,6 +173,7 @@ Tengo las certificaciones MCTS en Windows, Web, Distributed, Sql Server 2005 y W
                 </td>
             </tr>
         </table>
+        <br />
 Si eres empresa y deseas ayudar escribeme a hminaya@gmail.com.
 <h3>Patrocinadores</h3>
 <div style="text-align:center;">
@@ -181,15 +182,6 @@ Si eres empresa y deseas ayudar escribeme a hminaya@gmail.com.
     <a href="http://www.agilisa.com" target="_blank"><img src="/img/agilisa_med.png" alt="Agilisa"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="http://www.componentone.com/" target="_blank"><img src="/img/componentone_logo_vertical_black.png" alt="ComponentOne" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <br />    
-    <!--
-    TGEgZW1wcmVzYSBQdWVzdG9EZVF1aXBlLmNvbSBlc3RhIGJ1c2NhbmRvIGxhIG1hbmVyYSBkZSBl
-    ZmljaWVudGl6YXIgc3VzIHBlZGlkb3MsIGFjdHVhbG1lbnRlIGVsbG9zIGVzcGVyYW4gcXVlIHVu
-    IHByb2R1Y3RvIHNlIGxlIGFjYWJlIHkgbHVlZ28gbGxhbWFuIHBvciB0ZWzpZm9ubyBhIFN1cGxp
-    ZG9yYSBRdWlzcXVleWFuYSBwYXJhIHJlYWxpemFyIHVuYSBvcmRlbi4gRWwgcHJvY2VzbyBhY3R1
-    YWwgdGllbmUgY29tbyBjb25zZWN1ZW5jaWEgcGVyZGlkYXMgc2lnbmlmaWNhdGl2YXMgeWEgcXVl
-    IHNpIHNlIGxlIGFjYWJhIGxhIG1hdGVyaWEgcHJpbWEgbm8gcHVlZGVuIHZlbmRlciBzdSBwcm9k
-    dWN0by4=
-     -->
     <a href="http://www.amazon.com/Invierta-H%C3%A1gase-Rico-Bolsa-cualquier/dp/9945875507/ref=sr_1_1?ie=UTF8&s=books&qid=1301109172&sr=8-1" target="_blank"><img src="/img/Eduarte.jpg" alt="Eugenio Duarte"/></a>
     <a href="http://animealacarta.com" target="_blank"><img src="/img/LogoALC.png" alt="Anime a la Carta" style="height: 99px; width: 101px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="http://www.jetbrains.com/resharper/" target="_blank"><img src="/img/logo_resharper.gif" alt="ReSharper" /></a>&nbsp;&nbsp;&nbsp;&nbsp;

@@ -76,8 +76,8 @@
     <Content Include="img\mscafe.jpg" />
     <Content Include="img\tekpub_log.png" />
     <Content Include="js\code.js" />
+    <Content Include="js\code-min.js" />
     <Content Include="Readme.txt" />
-    <Content Include="test.htm" />
     <Content Include="Views\Home\Index.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
