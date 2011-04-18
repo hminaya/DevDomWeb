@@ -36,56 +36,59 @@
         Esta es tu oportunidad de comprobar todo eso que dices en grupo y ayudar a los demas a aprender.
     </div>
 
-<h3>¿Quién es Elegible?</h3>
-Eres elegible si cumples con los siguientes requerimientos al momento de registro:
-<ul>
-<li>Eres miembro del grupo <a href="http://www.facebook.com/home.php?sk=group_201514949865358">Developers Dominicanos</a>, registrado en FaceBook</li>
-<li>No eres parte del panel de jueces</li>
-</ul>
+<h3>Puntuación Final</h3>
+        <table  border="1" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+                <td align="center" class="Int">
+                    drCoderz
+                </td>
+                <td align="left" style="width:400px;">
+                    Roman Jaquez, Vladimir Heredia & James Liranzo
+                </td>
+                <td align="center" >
+                    <div style="color: #FFC76D;font-family: Arial, sans-serif;text-shadow: 0 1px 1px black;font-size: 32px;font-weight: bold;">1</div>
+                    <b>lugar</b>
+                </td>
+                <td align="center">
+                    79.5 puntos
+                </td>
+            </tr>
+            <tr>
+                <td align="center" class="Int">
+                    JLT
+                </td>
+                <td align="left">
+                    Tomas Jiménez & Fernando Jiménez
+                </td>
+                <td align="center" >
+                    <div style="color: #FFC76D;font-family: Arial, sans-serif;text-shadow: 0 1px 1px black;font-size: 32px;font-weight: bold;">2</div>
+                    <b>lugar</b>
+                </td>
+                <td align="center">
+                    77.5 puntos (*)
+                    
+                </td>
+            </tr>
+            <tr>
+                <td align="center" class="Int">
+                    PMF
+                </td>
+                <td align="left">
+                    Omar Santana, Frederick Clark, Melvin Severino, Garis Suero, Fausto Pimentel
+                </td>
+                <td align="center" >
+                    <div style="color: #FFC76D;font-family: Arial, sans-serif;text-shadow: 0 1px 1px black;font-size: 32px;font-weight: bold;">3</div>
+                    <b>lugar</b>
+                </td>
+                <td align="center">
+                    69 puntos
+                </td>
+            </tr>
+        </table>
+        <br />
+        <b>(*) Nota:</b> El equipo JLT tiene una multa donde solo se le calcula hasta 3.5 del Bonus por entregar tarde.
 
-<h3>¿Cómo Registrarse?</h3>
-El proceso de registro se cerro el 6 de Abril.
-
-<h3>Fechas Importantes</h3>
-<ul>
-<li>28/Marzo – Inicia el proceso de registro</li>
-<li>6/Abril – Cierra el proceso de registro</li>
-<li>7/Abril – Se publica el caso de negocios</li>
-<li>11/Abril – Deben entregar las soluciones finales</li>
-<li>12/Abril – El jurado inicia el proceso de calificación</li>
-<li>15/Abril – Publicaremos los ganadores</li>
-</ul>
-
-<h3>¿Qué vamos a programar?</h3>
-El caso de negocios esta publicado <span class="Aqui"><a target="_blank" href="https://docs.google.com/document/pub?id=1xOVpSwbAvdGNy5dKpvtO3yJAEZ2VYEhw-I-hbmAL5fY">aqui</a></span>.
-
-<h3>Equipos</h3>
-<ul>
-<li>Todo el proceso es virtual, asi que podran estar ubicados en cualquier lugar</li>
-<li>Los equipos deben estar compuestos de 2 a 5 personas</li>
-</ul>
-
-<h3>Equipos - Registrados</h3>
-<div id="data">
-</div>
-
-<h3>Especificaciones</h3>
-<ol>
-<li>El código resultante será <span class="Hig">código libre</span>, la licencia bajo la cual se distribuirá dependerá del Equipo, pero debe ser permisible copiar y reutilizar el código en aplicaciones no-comerciales. Esto solo aplica para el codigo que ustedes escriban, no nos vamos a sentar a preocuparnos por los componentes de terceros que incluyeron si estos pueden ser OpenSource o no, solo hablamos de su codigo.</li>
-<li>Pueden seleccionar <span class="Hig">cualquier lenguaje de programación</span> de su conveniencia.</li>
-<li>Pueden utilizar cualquier sistema para control de versiones, pero la entrega final debe hacerse subiendo el código final a <span class="Hig">GitHub.com</span>, del cual haremos un Fork para asegurarnos que no hagan más cambios. Si no saben usar Git vayan leyendo.</li>
-<li>Deben entregar lo siguiente:
-    <ul>
-        <li>Código fuente del sistema (no es necesario documentar el mismo), </li>
-        <li>Instalador/Ejecutable del sistema ya compilado (según sea el caso dependiente del lenguaje/plataforma)</li>
-        <li>Manual sencillo que indique como debe instalarse el sistema (puede ser un simple Readme.txt de un par de lineas)</li>
-        <li>En caso de que sea necesario deben entregar scripts con data de prueba</li>
-    </ul>
-</li>
-<li><span class="Hig">Pueden</span> usar componentes/librerías de terceros, Ej.: jQuery, jQueryUI, ComponentArt</li>
-</ol>
-
-<h3>¿Cómo van a ser juzgados?</h3>
+<h3>¿Cómo fueron juzgados?</h3>
 Cada criterio tiene una puntuación equivalente, del 1 al 5, siendo 1 lo peor y 5 lo maximo. Al final se sumara la puntuación obtenida y 
 ese sera su total. El equipo con la puntuación total mas alta sera el ganador. La hoja de calculo con todas las puntuaciones sera publicada 
 para que sea transparente todo el proceso.
@@ -98,37 +101,6 @@ para que sea transparente todo el proceso.
 </ul>
 
 En el caso de empate, los jueces haran una unica ronda de votación para determinar los lugares.
-
-<h3>¿Quiénes son los jueces?</h3>
-<ul>
-<li>
-<a href="http://codedonetplus.blogspot.com/">Francis Ramirez De Leon (Rep. Dom.)</a>
-Software Development Engineer, Especialista en el diseño y arquitectura de aplicaciones de misión critica. Trabaja con el stack de .net & java. Posee las certifiaciones MCTS, MCPD, MCT.Basta experiencia en el uso de tecnologias AJAX como jQuery, MS Ajax, Modelado de Datos con Entity Fremework 4, WCF Data Services.
-</li>
-<li>
-<a href="http://www.theregion.com/JuanMestas.aspx">Juan Mestas (Peru)</a>
-Software Architect focus on design end to end solutions,  with strong background in development and implementation of enterprise solutions on Java and .Net platforms. Specific focus on Connected Systems Architecture, under the model proposed by SOA (SOA-B/SOA-R), and WS-* technologies. Microsoft Regional Director for Peru, Member of  IASA Global, Member of Microsoft Influencers Framework, Regional Speaker for INETA LATAM, and frequent speaker in Microsoft’s events around the .Net platform, Professional Scrum Developer Trainer, Professional Scrum Developer, Professional Scrum Master for Scrum.org oriented to mentoring about Agile models to different enterprises into the software industry 
-</li>
-<li>
-<a href="http://www.HectorMinaya.com">Hector Minaya (Rep. Dom.)</a>
-Profesional con basta experiencia en el area de tecnologia. Trabaja con el stack de .net desde que estaba en beta, y desde antes ya trabajaba con VB6, ASP & COM+. Hoy en dia se dedica la mayor parte del tiempo a desarrollar en ASP.Net MVC + Entity Framework + jQuery/JavaScript. Tiene mas de 12 años trabajando con Oracle & SQL Server. Ha dedicado mucho tiempo y esfuerzo a las comunidades locales y a ayudar a los demas, razon por la cual fue durante 6 años Microsoft MVP de Visual Basic y Orador Regional de Ineta Latam. 
-</li>
-<li>
-<a href="http://www.theregion.com/profile.aspx?rd=1071">Carlos R. Guevara (Panamá)</a>
-Chief Technology Officer for a Microsoft partner focused on delivering leading edge, extremely efficient and scalable enterprise apps that help solve real business needs.  With extensive experience in the most used web technologies, including asp, asp.net, ajax, jquery, java, flash and silverlight, as well as having done extensive work with leading UI technologies like WPF and Silverlight and mobile technologies like Windows Mobile and now Windows Phone, has participated in many large corporate and institutional projects in the area. Recognized by Microsoft with the title of Regional Director for Panama, Central America, and as an international speaker participating in events in Peru, Ecuador, Panama, Costa Rica, Guatemala, Dominican Republic, the United States and Hong Kong.  Also frecuent traininer of Microsoft technologies and development practices.
-</li>
-<li>
-<a href="http://geeks.ms/blogs/ezavala">Esteban Zavala Peña (Rep. Dom.)</a>
-Profesional con mas de 7 años de experiencia en el desarrollo de aplicaciones web, Windows y distribuidas, usando
-las mejores prácticas de desarrollo y análisis. Colaborador activo de comunidades estudiantiles y profesionales en la
-república dominicana, altamente motivado a la colaboracion del conocimiento con la comunidad de desarrolladores de la region,
-Experiencia en el sector bancario usando herramientas como Siebel 6-8, IBM WebSphere MQ 7, IBM WebSphere Message Broker 7 y
-en el sector publico y privado utilizando herramientas como ASP.Net MVC + Entity Framework + jQuery, Windows Forms, Windows Communication foundation,
-Oracle y SQL Server, Tengo experiencia en sistemas con seguridad biometrica tales como: sistemas de pasaportes, licencias y de identidad implementando
-soluciones de este tipo en la Republica Dominicana y algunos paises de la region como puerto rico, bahamas, Saint Kitts and Nevis y Brazil.
-Tengo las certificaciones MCTS en Windows, Web, Distributed, Sql Server 2005 y Windows Communication Foundation.
-</li>
-</ul>
 
 <h3>¿Premios?</h3>
         <table border="1" cellpadding="0" cellspacing="0" width="100%">
@@ -174,8 +146,8 @@ Tengo las certificaciones MCTS en Windows, Web, Distributed, Sql Server 2005 y W
             </tr>
         </table>
         <br />
-Si eres empresa y deseas ayudar escribeme a hminaya@gmail.com.
 <h3>Patrocinadores</h3>
+Si eres empresa y deseas ayudar escribeme a hminaya@gmail.com.
 <div style="text-align:center;">
     <a href="http://tekpub.com/" target="_blank"><img src="/img/tekpub_log.png" alt="TekPub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="http://www.facebook.com/MSCafeTV" target="_blank"><img src="/img/mscafe.jpg" alt="MS Cafe TV" style="height: 99px; width: 101px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -189,7 +161,6 @@ Si eres empresa y deseas ayudar escribeme a hminaya@gmail.com.
     <br />
     </div>
     <br />
-    <h2>Buena suerte a todos!!!!</h2>
     </div>
     
 </body>
