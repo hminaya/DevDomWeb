@@ -1,10 +1,6 @@
 <!--
         /**
         * http://code.google.com/apis/gdata/samples/spreadsheet_sample.html
-        * Lists the entries from the specified JSON feed
-        * by creating a new 'dl' element in the DOM.
-        * Each 'dt' is the title of the row, and each 'dd' 
-        * is the content of the row. 
         */
         function listEntries(json) {
 
