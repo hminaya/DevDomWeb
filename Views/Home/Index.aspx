@@ -29,6 +29,9 @@
 
 </head>
 <body>
+<h1>Si aun estas viendo esta pagina es porque el DNS no ha refrescado, hoy estamos estrenando una pagina nueva, ten paciencia y pronto la podras ver.....</h1>
+
+<!-- 
     <div class="Cuerpo">
     
 <h1><a alt="Developers Dominicanos" href="http://www.facebook.com/home.php?sk=group_201514949865358&ap=1">Unete a nuestro grupo en facebook</a></h1>
@@ -168,7 +171,7 @@ Si eres empresa y deseas ayudar escribeme a hminaya@gmail.com.
     </div>
     <br />
     </div>
-    
+-->    
 </body>
 </html>
 
