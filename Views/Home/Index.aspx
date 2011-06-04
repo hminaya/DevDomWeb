@@ -33,6 +33,7 @@
     
 <h1><a alt="Developers Dominicanos" href="http://www.facebook.com/home.php?sk=group_201514949865358&ap=1">Unete a nuestro grupo en facebook</a></h1>
     <br/>
+    <hr>
     <br/>
     <h1>Developers Dominicanos - Code Jam 2011</h1>
 
