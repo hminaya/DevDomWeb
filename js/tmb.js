@@ -8,12 +8,17 @@ function BuscarRelacionados(pstTag){
         // Crea el header el LI
 		$("<span style='font-weight: bold;'>" + pstTag + "</span><ul id='" + pstTag+ "'></ul><br>").appendTo("#PostsRelacionados");
 		
+        // Colocar cada post
 		$.each(tumblr_api_read.posts, function (indx, val){
+            // Sin repetir
             if($.inArray(val["id"],window.arrPostsRelacionados) == -1){
                 window.arrPostsRelacionados.push(val["id"]);
-    		    $("<li><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#" + pstTag);
+    		    $("<li id='li" + pstTag + "'><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#" + pstTag);
             }
 		});
+        
+        // Borrar el tag si se quedao vacio
+        //$("#" + pstTag)
 		
 	});
 }
