@@ -13,7 +13,7 @@ function BuscarRelacionados(pstTag){
             // Sin repetir
             if($.inArray(val["id"],window.arrPostsRelacionados) == -1){
                 window.arrPostsRelacionados.push(val["id"]);
-    		    $("<li id='li" + pstTag + "'><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#" + pstTag);
+    		    $("<li><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#" + pstTag);
             }
 		});
         
