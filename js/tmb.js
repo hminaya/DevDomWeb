@@ -1,10 +1,10 @@
-
+//
 function BuscarRelacionados(pstTag){
     pstTag = $.trim(pstTag);
     console.log(pstTag);
     $.getScript("http://developers.do/api/read/json?tagged=" + pstTag, function(){
 		
-		$("<span style='font-weight: bold;'>" + pstTag + "</span><ul id='" + pstTag+ "'></ul>").appendTo("#PostsRelacionados");
+		$("<span style='font-weight: bold;'>" + pstTag + "</span><ul id='" + pstTag+ "'></ul><br><br>").appendTo("#PostsRelacionados");//
 		
 		$.each(tumblr_api_read.posts, function (indx, val){
 			$("<li><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#" + pstTag);
