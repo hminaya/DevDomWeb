@@ -18,7 +18,9 @@ function BuscarRelacionados(pstTag){
 		});
         
         // Borrar el tag si se quedao vacio
-        //$("#" + pstTag)
+        if($("#" + pstTag).children().size() == 0){
+            $("#" + pstTag).hide();
+        };
 		
 	});
 }
