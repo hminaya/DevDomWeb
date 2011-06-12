@@ -1,10 +1,12 @@
-//
+// Busca los posts relacionados
 function BuscarRelacionados(pstTag){
+
     pstTag = $.trim(pstTag);
-    console.log(pstTag);
+
     $.getScript("http://developers.do/api/read/json?tagged=" + pstTag, function(){
 		
-		$("<span style='font-weight: bold;'>" + pstTag + "</span><ul id='" + pstTag+ "'></ul><br><br>").appendTo("#PostsRelacionados");//
+        // Crea el header el LI
+		$("<span style='font-weight: bold;'>" + pstTag + "</span><ul id='" + pstTag+ "'></ul><br>").appendTo("#PostsRelacionados");
 		
 		$.each(tumblr_api_read.posts, function (indx, val){
 			$("<li><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#" + pstTag);
@@ -13,7 +15,6 @@ function BuscarRelacionados(pstTag){
 		
 	});
 }
-
 
 window.fbAsyncInit = function() {
     FB.init({appId: '231720456842175', status: true, cookie: true,
