@@ -19,7 +19,7 @@ function BuscarRelacionados(pstTag){
                     }
         		});
                 
-                // Borrar el tag si se quedao vacio
+                // Borrar los tags si se quedao vacio
                 if($("#" + pstTag).children().size() == 0){
                     $("#" + pstTag).hide();
                     $("#spn" + pstTag).hide();
@@ -47,6 +47,7 @@ $(function(){
         document.getElementById('fb-root').appendChild(e);
       }());
       
+      /// Para manejar los posts relacionados
       window.arrPostsRelacionados = new Array();
 
 });
