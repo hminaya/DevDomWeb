@@ -9,8 +9,10 @@ function BuscarRelacionados(pstTag){
 		$("<span style='font-weight: bold;'>" + pstTag + "</span><ul id='" + pstTag+ "'></ul><br>").appendTo("#PostsRelacionados");
 		
 		$.each(tumblr_api_read.posts, function (indx, val){
-            window.arrPostsRelacionados.push(val["id"]);
-			$("<li><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#" + pstTag);
+            if($.inArray(val["id"],window.arrPostsRelacionados) == -1){
+                window.arrPostsRelacionados.push(val["id"]);
+    		    $("<li><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#" + pstTag);
+            }
 		});
 		
 	});
