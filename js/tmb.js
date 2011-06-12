@@ -1,6 +1,7 @@
 
 function BuscarRelacionados(pstTag){
-  console.log(pstTag);
+    pstTag = $.trim(pstTag);
+    console.log(pstTag);
     $.getScript("http://developers.do/api/read/json?tagged=" + pstTag, function(){
 		
 		$("<span style='font-weight: bold;'>" + pstTag + "</span><ul id='" + pstTag+ "'></ul>").appendTo("#PostsRelacionados");
@@ -19,6 +20,7 @@ window.fbAsyncInit = function() {
              xfbml: true});
   };
 
+//
 $(function(){
 
     prettyPrint();
