@@ -18,7 +18,9 @@ function BuscarRelacionados(pstTag){
                         $("<li><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#" + pstTag);
                     }
                     else{
-                        $("<li class='icon-liked'><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#lista-posts");
+                        if(val["regular-title"]){
+                            $("<li class='icon-liked'><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#lista-posts");
+                        }
                     }
                 }
     		});
