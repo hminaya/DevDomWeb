@@ -6,7 +6,7 @@ function BuscarRelacionados(pstTag){
     $.getScript("http://developers.do/api/read/json?tagged=" + pstTag, function(){
 		
         // Crea el header el LI
-		$("<span style='font-weight: bold;'>" + pstTag + "</span><ul id='" + pstTag+ "'></ul><br>").appendTo("#PostsRelacionados");
+		$("<span style='font-weight: bold;' id='spn" + pstTag + "'>" + pstTag + "</span><ul id='" + pstTag+ "'></ul><br>").appendTo("#PostsRelacionados");
 		
         // Colocar cada post
 		$.each(tumblr_api_read.posts, function (indx, val){
@@ -20,6 +20,7 @@ function BuscarRelacionados(pstTag){
         // Borrar el tag si se quedao vacio
         if($("#" + pstTag).children().size() == 0){
             $("#" + pstTag).hide();
+            $("#spn" + pstTag).hide();
         };
 		
 	});
