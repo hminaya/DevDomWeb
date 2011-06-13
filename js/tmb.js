@@ -10,16 +10,28 @@ function BuscarRelacionados(pstTag){
     		$("<span style='font-weight: bold;' id='spn" + pstTag + "'>" + pstTag + "</span><ul id='" + pstTag+ "'></ul><br>").appendTo("#PostsRelacionados");
     		
             // Colocar cada post
+            var titulo = "";
+            var url = "";
     		$.each(tumblr_api_read.posts, function (indx, val){
                 // Sin repetir
+                
+                titulo = val["regular-title"];
+                url = val["url-with-slug"];
+                
                 if($.inArray(val["id"],window.arrPostsRelacionados) == -1){
                     window.arrPostsRelacionados.push(val["id"]);
                     if(!(document.location.href == "http://developers.do/")){
-                        $("<li><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#" + pstTag);
+                        
+                        if(val["type"] == "quote"){
+                            titulo = val["quote-text"];
+                        }
+                        
+                        $("<li><a href = '" + url + "' title='" + titulo + "'>" + titulo + "</a></li>").appendTo("#" + pstTag);
+                        
                     }
                     else{
-                        if(val["regular-title"]){
-                            $("<li class='icon-liked'><a href = '" + val["url-with-slug"] + "' title='" + val["regular-title"] + "'>" + val["regular-title"] + "</a></li>").appendTo("#lista-posts");
+                        if(titulo){
+                            $("<li class='icon-liked'><a href = '" + url + "' title='" + titulo + "'>" + titulo + "</a></li>").appendTo("#lista-posts");
                         }
                     }
                 }
