@@ -30,8 +30,9 @@ function BuscarRelacionados(pstTag){
                         
                     }
                     else{
+                        // Debe tener un titulo, no puede ser undefined
                         if(titulo){
-                            $("<li class='icon-liked'><a href = '" + url + "' title='" + titulo + "'>" + titulo + "</a></li>").appendTo("#lista-posts");
+                            $("<li class='icon-liked' style='list-style-type:none;'><a href = '" + url + "' title='" + titulo + "'>" + titulo + "</a></li>").appendTo("#lista-posts");
                         }
                     }
                 }
