@@ -1,3 +1,5 @@
+// Developers Dominicanos
+// http://developers.do
 // Busca los posts relacionados
 function BuscarRelacionados(pstTag){
 
