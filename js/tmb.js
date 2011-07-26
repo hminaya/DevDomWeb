@@ -5,7 +5,7 @@ function BuscarRelacionados(pstTag){
 
     pstTag = $.trim(pstTag);
 
-    if(pstTag){
+    if( (pstTag) && (window.location.pathname != "/") ){
         $.getScript("http://developers.do/api/read/json?tagged=" + pstTag, function(){
             
             // Crea el header el LI
