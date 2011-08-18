@@ -78,7 +78,7 @@
     <Content Include="js\code.js" />
     <Content Include="js\code-min.js" />
     <Content Include="js\tmb.js" />
-    <Content Include="js\devdomlib.js" />
+    <Content Include="js\devdomjson.js" />
     <Content Include="Readme.txt" />
     <Content Include="Views\Home\Index - Old.aspx" />
     <Content Include="Views\Home\Index.aspx" />
