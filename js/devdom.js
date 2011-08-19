@@ -8,15 +8,15 @@
         "tutorials": [
                 {
                     "id": "1",
-                    "name": "Construir librerías de JavaScript - Parte II",
-                    "description": "Construir librerías de JavaScript - Parte II",
+                    "name": "Construir librerias de JavaScript - Parte II",
+                    "description": "Construir librerias de JavaScript - Parte II",
                     "tutorialUrl": "http://tumblr.com/xq32xl4kxt",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmk5kqlIXs1qjthf4.png"
                 }, 
                 {
                     "id": "2",
-                    "name": "Construir librerías de JavaScript - Parte I",
-                    "description": "Construir librerías de JavaScript - Parte I",
+                    "name": "Construir librerias de JavaScript - Parte I",
+                    "description": "Construir librerias de JavaScript - Parte I",
                     "tutorialUrl": "http://tumblr.com/xq32w83tvd",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmg3q56EQt1qjthf4.png"
                 },
@@ -44,15 +44,15 @@
         "tutorials": [
                 {
                     "id": "1",
-                    "name": "Guía básica de OOP en Java: Clases",
-                    "description": "Guía básica de OOP en Java: Clases",
+                    "name": "Guía basica de OOP en Java: Clases",
+                    "description": "Guia basica de OOP en Java: Clases",
                     "tutorialUrl": "http://tumblr.com/xq33d1srwk",
                     "imageUrl": "http://media.tumblr.com/tumblr_lnxpf4R6wb1qjthf4.jpg"
                 }, 
                 {
                     "id": "2",
-                    "name": "Guía básica de OOP en Java: Objetos",
-                    "description": "Construir librerías de JavaScript - Parte I",
+                    "name": "Guia basica de OOP en Java: Objetos",
+                    "description": "Construir librerias de JavaScript - Parte I",
                     "tutorialUrl": "http://tumblr.com/xq32xehi6j",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmk0gfOwan1qjthf4.jpg"
                 },
@@ -88,7 +88,7 @@
         "tutorials": [
                 {
                     "id": "1",
-                    "name": "Introducción Desarrollo de Apps para Android",
+                    "name": "Introduccion Desarrollo de Apps para Android",
                     "description": "Introducción Desarrollo de Apps para Android",
                     "tutorialUrl": "http://tumblr.com/xq33rfsdor",
                     "imageUrl": "http://media.tumblr.com/tumblr_lp2fouzBbv1qjthf4.png"
