@@ -1,6 +1,28 @@
 {"categorias":
 [
     {
+        "id": "00",
+        "categoryName": "Seguridad",
+        "description": "Seguridad en el desarrollo de software",
+        "imageUrl": "http://js.developers.do/img_thmb/lock.png",
+        "tutorials": [
+                {
+                    "id": "1",
+                    "name": "Cross-Site request forgery (CSRF) para dummies",
+                    "description": "Continuando con el tema de seguridad, vamos a analizar lo básico de un ataque CSRF para que puedan entender como funciona y poder protegerse del mismo.",
+                    "tutorialUrl": "http://tumblr.com/xq32zzbj81",
+                    "imageUrl": "http://media.tumblr.com/tumblr_lmsnt9akJ81qjthf4.jpg"
+                }, 
+                {
+                    "id": "2",
+                    "name": "Cross-site scripting (XSS) para dummies",
+                    "description": "De acuerdo al OWASP el Cross-site scripting es una de las amenazas mas explotadas en el 2010. ",
+                    "tutorialUrl": "http://tumblr.com/xq32zoif21",
+                    "imageUrl": "http://media.tumblr.com/tumblr_lmrfitzlmu1qjthf4.jpg"
+                },
+            ]
+        },
+    {
         "id": "0",
         "categoryName": "jQuery",
         "description": "jQuery",
@@ -115,6 +137,21 @@
                     "tutorialUrl": "http://tumblr.com/xq33meqsc1",
                     "imageUrl": "http://media.tumblr.com/tumblr_loo2q9Slhw1qjthf4.jpg"
                 },
+            ]
+        },
+    {
+        "id": "5",
+        "categoryName": "Otros",
+        "description": "Mas tutoriales",
+        "imageUrl": "http://js.developers.do/img_thmb/other.png",
+        "tutorials": [
+                {
+                    "id": "1",
+                    "name": "Instructivo de desarrollo de una aplicacion",
+                    "description": "Instructivo de desarrollo de una aplicacion",
+                    "tutorialUrl": "http://tumblr.com/xq33lwphdj",
+                    "imageUrl": "http://media.tumblr.com/tumblr_loneuikXeu1qjthf4.jpg"
+                }, 
             ]
         }
     ]
