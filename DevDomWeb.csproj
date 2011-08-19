@@ -75,6 +75,10 @@
     <Content Include="img\logo_resharper.gif" />
     <Content Include="img\mscafe.jpg" />
     <Content Include="img\tekpub_log.png" />
+    <Content Include="img_thmb\android-48x48.png" />
+    <Content Include="img_thmb\jquery.png" />
+    <Content Include="img_thmb\sun-java.png" />
+    <Content Include="img_thmb\wp7.png" />
     <Content Include="js\code.js" />
     <Content Include="js\code-min.js" />
     <Content Include="js\tmb.js" />

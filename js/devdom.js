@@ -4,7 +4,7 @@
         "id": "0",
         "categoryName": "jQuery",
         "description": "jQuery",
-        "imageUrl": "",
+        "imageUrl": "http://js.developers.do/img_thmb/jquery.png",
         "tutorials": [
                 {
                     "id": "1",
@@ -40,7 +40,7 @@
         "id": "1",
         "categoryName": "Java",
         "description": "Tutoriales y articulos sobre Java",
-        "imageUrl": "",
+        "imageUrl": "http://js.developers.do/img_thmb/sun-java.png",
         "tutorials": [
                 {
                     "id": "1",
@@ -60,9 +60,9 @@
         },
     {
         "id": "2",
-        "categoryName": "ASP.NET MVC",
-        "description": "Model View Controller",
-        "imageUrl": "",
+        "categoryName": "ASP.NET",
+        "description": "ASP.NET MVC & Webforms",
+        "imageUrl": "http://js.developers.do/img_thmb/wp7.png",
         "tutorials": [
                 {
                     "id": "1",
@@ -84,7 +84,7 @@
         "id": "3",
         "categoryName": "Android",
         "description": "Android Development",
-        "imageUrl": "",
+        "imageUrl": "http://js.developers.do/img_thmb/android-48x48.png",
         "tutorials": [
                 {
                     "id": "1",
@@ -99,7 +99,7 @@
         "id": "4",
         "categoryName": "WP7",
         "description": "Windows Phone 7",
-        "imageUrl": "",
+        "imageUrl": "http://js.developers.do/img_thmb/wp7.png",
         "tutorials": [
                 {
                     "id": "1",
