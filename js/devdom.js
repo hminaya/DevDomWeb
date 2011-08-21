@@ -10,14 +10,14 @@
                     "id": "1",
                     "name": "Cross-Site request forgery (CSRF) para dummies",
                     "description": "Continuando con el tema de seguridad, vamos a analizar lo básico de un ataque CSRF para que puedan entender como funciona y poder protegerse del mismo.",
-                    "tutorialUrl": "http://tumblr.com/xq32zzbj81",
+                    "tutorialUrl": "http://developers.do/post/6529205521/cross-site-request-forgery-csrf-para-dummies",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmsnt9akJ81qjthf4.jpg"
                 }, 
                 {
                     "id": "2",
                     "name": "Cross-site scripting (XSS) para dummies",
                     "description": "De acuerdo al OWASP el Cross-site scripting es una de las amenazas mas explotadas en el 2010. ",
-                    "tutorialUrl": "http://tumblr.com/xq32zoif21",
+                    "tutorialUrl": "http://developers.do/post/6511050937/cross-site-scripting-xss-para-dummies",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmrfitzlmu1qjthf4.jpg"
                 },
             ]
@@ -31,15 +31,15 @@
                 {
                     "id": "1",
                     "name": "Construir librerias de JavaScript - Parte II",
-                    "description": "Construir librerias de JavaScript - Parte II",
-                    "tutorialUrl": "http://tumblr.com/xq32xl4kxt",
+                    "description": "En la segunda parte de esta serie vamos a concentrarnos en poder agregarle funcionalidad a nuestra libreria y como poder segmentar la misma a traves de varios archivos.",
+                    "tutorialUrl": "http://developers.do/post/6384434177/construir-librerias-de-javascript-parte-ii",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmk5kqlIXs1qjthf4.png"
                 }, 
                 {
                     "id": "2",
                     "name": "Construir librerias de JavaScript - Parte I",
-                    "description": "Construir librerias de JavaScript - Parte I",
-                    "tutorialUrl": "http://tumblr.com/xq32w83tvd",
+                    "description": "Todo proyecto web respetable lleva consigo una gran cantidad de código javascript. En muchos de los casos los programadores cometemos el error de colocar este código dentro del mismo",
+                    "tutorialUrl": "http://developers.do/post/6302097913/construir-librerias-de-javascript-parte-i",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmg3q56EQt1qjthf4.png"
                 },
                 {
@@ -52,8 +52,8 @@
                 {
                     "id": "4",
                     "name": "Cargar jQuery desde el CDN de Google",
-                    "description": "Cargar jQuery desde el CDN de Google",
-                    "tutorialUrl": "http://tumblr.com/xq32uwl5jz",
+                    "description": "En el post anterior vimos cuales son las ventajas que se obtienen al usar un CDN para cargar la libreria de jQuery. Hoy veremos algunas otras opciones y configuraciones que puede utilizar para la misma.",
+                    "tutorialUrl": "http://developers.do/post/6250670039/opciones-para-cargar-jquery-desde-el-cdn",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmg3q56EQt1qjthf4.png"
                 },
             ]
@@ -67,14 +67,14 @@
                 {
                     "id": "1",
                     "name": "Guía basica de OOP en Java: Clases",
-                    "description": "Guia basica de OOP en Java: Clases",
-                    "tutorialUrl": "http://tumblr.com/xq33d1srwk",
+                    "description": "En este post le damos continuación a una publicación antigua que trata sobre lo básico en OOP específicamente objetos, en este ",
+                    "tutorialUrl": "http://developers.do/post/7319429444/guia-basica-de-oop-en-java-clases",
                     "imageUrl": "http://media.tumblr.com/tumblr_lnxpf4R6wb1qjthf4.jpg"
                 }, 
                 {
                     "id": "2",
                     "name": "Guia basica de OOP en Java: Objetos",
-                    "description": "Construir librerias de JavaScript - Parte I",
+                    "description": "http://developers.do/post/6373279819/guia-basica-de-oop-en-java-objetos",
                     "tutorialUrl": "http://tumblr.com/xq32xehi6j",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmk0gfOwan1qjthf4.jpg"
                 },
@@ -89,15 +89,15 @@
                 {
                     "id": "1",
                     "name": "Creando un Proyecto en ASP.NET MVC",
-                    "description": "Creando un Proyecto en ASP.NET MVC",
-                    "tutorialUrl": "http://tumblr.com/xq330y5q9i",
+                    "description": "Utilizando Visual Studio 2010 como plataforma para desarrollar, vamos a crear nuestro primer proyecto de asp.net mvc.",
+                    "tutorialUrl": "http://developers.do/post/6587721270/creando-un-proyecto-en-asp-net-mvc",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmw1uyPqVW1qjthf4.jpg"
                 }, 
                 {
                     "id": "2",
                     "name": "Primeros pasos en ASP.NET MVC",
-                    "description": "Primeros pasos en ASP.NET MVC",
-                    "tutorialUrl": "http://tumblr.com/xq32wmhrfw",
+                    "description": "Hace unos cuantos días un amigo cercano me presento la necesidad de querer aprender a desarrollar aplicaciones para la web y le preste la serie de videos de TekPub que tengo para ASP.NET MVC pensé:",
+                    "tutorialUrl": "http://developers.do/post/6326262572/primeros-pasos-en-asp-net-mvc",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmhia25eJ21qjthf4.jpg"
                 },
             ]
@@ -111,8 +111,8 @@
                 {
                     "id": "1",
                     "name": "Introduccion Desarrollo de Apps para Android",
-                    "description": "Introducción Desarrollo de Apps para Android",
-                    "tutorialUrl": "http://tumblr.com/xq33rfsdor",
+                    "description": "En la actualidad, Android es el sistema operativo con mayor mercado en los Estados Unidos en cuanto a dispositivos móviles o smartphones se refiere. ",
+                    "tutorialUrl": "http://developers.do/post/8189452107/introduccion-desarrollo-de-apps-para-android",
                     "imageUrl": "http://media.tumblr.com/tumblr_lp2fouzBbv1qjthf4.png"
                 }, 
             ]
@@ -126,15 +126,15 @@
                 {
                     "id": "1",
                     "name": "MVVM en aplicaciones Silverlight, WPF y Windows Phone 7",
-                    "description": "MVVM en aplicaciones Silverlight, WPF y Windows Phone 7",
-                    "tutorialUrl": "http://tumblr.com/xq33p0h0gt",
+                    "description": "Existen una cantidad de frameworks que ofrecen el patrón MVVM (Model, View, View Model)  ya de una manera “enlatada” (MVVMLight por ejemplo), los cuales podrían ser utilizados de inmediato en tus aplicaciones de línea de negocios, ya sea para Silverlight, WPF o incluso el teléfono de Windows 7.",
+                    "tutorialUrl": "http://developers.do/post/8042795165/mvvm-en-aplicaciones-silverlight-wpf-y-windows-phone-7",
                     "imageUrl": "http://media.tumblr.com/tumblr_loulgtog3g1qjthf4.png"
                 }, 
                 {
                     "id": "2",
                     "name": "Introducción al desarrollo de Apps para el Windows Phone 7",
-                    "description": "Introducción al desarrollo de Apps para el Windows Phone 7",
-                    "tutorialUrl": "http://tumblr.com/xq33meqsc1",
+                    "description": "La plataforma de desarrollo de aplicaciones móviles para Windows Phone 7 ha estado en apogeo en los últimos meses y desde su lanzamiento hace poco menos de un año, ",
+                    "tutorialUrl": "http://developers.do/post/7885367281/introduccion-al-desarrollo-de-apps-para-el-windows",
                     "imageUrl": "http://media.tumblr.com/tumblr_loo2q9Slhw1qjthf4.jpg"
                 },
             ]
@@ -148,8 +148,8 @@
                 {
                     "id": "1",
                     "name": "Instructivo de desarrollo de una aplicacion",
-                    "description": "Instructivo de desarrollo de una aplicacion",
-                    "tutorialUrl": "http://tumblr.com/xq33lwphdj",
+                    "description": "El instructivo va dirigido a aquellos miembros de la comunidad que están iniciando en el área de desarrollo, no es un instructivo avanzado, su objetivo es poder mostrar una introducción al análisis, implementación y desarrollo de una aplicación.",
+                    "tutorialUrl": "http://developers.do/post/7855073335/instructivo-de-desarrollo-de-una-aplicacion",
                     "imageUrl": "http://media.tumblr.com/tumblr_loneuikXeu1qjthf4.jpg"
                 }, 
                 {
