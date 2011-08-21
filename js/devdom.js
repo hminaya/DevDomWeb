@@ -74,8 +74,8 @@
                 {
                     "id": "2",
                     "name": "Guia basica de OOP en Java: Objetos",
-                    "description": "http://developers.do/post/6373279819/guia-basica-de-oop-en-java-objetos",
-                    "tutorialUrl": "http://tumblr.com/xq32xehi6j",
+                    "description": "Si usted no tiene experiencia en un lenguaje de programación orientado a objetos (OOP) le tomara un tiempo pasar la curva de aprendizaje inicial.",
+                    "tutorialUrl": "http://developers.do/post/6373279819/guia-basica-de-oop-en-java-objetos",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmk0gfOwan1qjthf4.jpg"
                 },
             ]
