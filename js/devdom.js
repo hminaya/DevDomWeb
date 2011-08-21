@@ -152,6 +152,13 @@
                     "tutorialUrl": "http://tumblr.com/xq33lwphdj",
                     "imageUrl": "http://media.tumblr.com/tumblr_loneuikXeu1qjthf4.jpg"
                 }, 
+                {
+                    "id": "2",
+                    "name": "Anatomia del DevDom Social App - Android",
+                    "description": "Esta es una guia de como esta hecha nuestra recien lanzada App para Android, la cual sera utilizada por los equipos que van a llevar es",
+                    "tutorialUrl": "http://developers.do/post/9214675955/anatomia-del-devdom-social-app-android",
+                    "imageUrl": "http://media.tumblr.com/tumblr_lqahoqjnwO1qjthf4.png"
+                }, 
             ]
         }
     ]
