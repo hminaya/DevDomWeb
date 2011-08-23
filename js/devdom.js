@@ -19,7 +19,7 @@
                     "description": "De acuerdo al OWASP el Cross-site scripting es una de las amenazas mas explotadas en el 2010. ",
                     "tutorialUrl": "http://developers.do/post/6511050937/cross-site-scripting-xss-para-dummies",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmrfitzlmu1qjthf4.jpg"
-                },
+                }
             ]
         },
     {
@@ -55,7 +55,7 @@
                     "description": "En el post anterior vimos cuales son las ventajas que se obtienen al usar un CDN para cargar la libreria de jQuery. Hoy veremos algunas otras opciones y configuraciones que puede utilizar para la misma.",
                     "tutorialUrl": "http://developers.do/post/6250670039/opciones-para-cargar-jquery-desde-el-cdn",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmg3q56EQt1qjthf4.png"
-                },
+                }
             ]
         },
     {
@@ -77,7 +77,7 @@
                     "description": "Si usted no tiene experiencia en un lenguaje de programación orientado a objetos (OOP) le tomara un tiempo pasar la curva de aprendizaje inicial.",
                     "tutorialUrl": "http://developers.do/post/6373279819/guia-basica-de-oop-en-java-objetos",
                     "imageUrl": "http://media.tumblr.com/tumblr_lmk0gfOwan1qjthf4.jpg"
-                },
+                }
             ]
         },
     {
@@ -106,7 +106,7 @@
                     "description": "En un proyecto mvc app nuevo que se llamaría “CodeFirstScaffoldingTutorial” ve a la consola de NuGet ( Tools > Library Package Manager > Package Manager Console ) y escribe",
                     "tutorialUrl": "http://developers.do/post/9275075828/scaffolding-en-mvc3-con-sumajestadjose",
                     "imageUrl": "http://media.tumblr.com/tumblr_lqcxrd8Xbr1qjthf4.gif"
-                },
+                }
             ]
         },
     {
@@ -121,7 +121,7 @@
                     "description": "En la actualidad, Android es el sistema operativo con mayor mercado en los Estados Unidos en cuanto a dispositivos móviles o smartphones se refiere. ",
                     "tutorialUrl": "http://developers.do/post/8189452107/introduccion-desarrollo-de-apps-para-android",
                     "imageUrl": "http://media.tumblr.com/tumblr_lp2fouzBbv1qjthf4.png"
-                },
+                }
             ]
         },
     {
@@ -143,7 +143,7 @@
                     "description": "La plataforma de desarrollo de aplicaciones móviles para Windows Phone 7 ha estado en apogeo en los últimos meses y desde su lanzamiento hace poco menos de un año, ",
                     "tutorialUrl": "http://developers.do/post/7885367281/introduccion-al-desarrollo-de-apps-para-el-windows",
                     "imageUrl": "http://media.tumblr.com/tumblr_loo2q9Slhw1qjthf4.jpg"
-                },
+                }
             ]
         },
     {
@@ -165,7 +165,7 @@
                     "description": "Esta es una guia de como esta hecha nuestra recien lanzada App para Android, la cual sera utilizada por los equipos que van a llevar es",
                     "tutorialUrl": "http://developers.do/post/9214675955/anatomia-del-devdom-social-app-android",
                     "imageUrl": "http://media.tumblr.com/tumblr_lqahoqjnwO1qjthf4.png"
-                },
+                }
             ]
         }
     ]
