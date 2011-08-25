@@ -25,7 +25,7 @@
     {
         "id": "0",
         "categoryName": "jQuery",
-        "description": "jQuery",
+        "description": "el javascript framework mas popular",
         "imageUrl": "http://js.developers.do/img_thmb/jquery.png",
         "tutorials": [
                 {
@@ -121,6 +121,13 @@
                     "description": "En la actualidad, Android es el sistema operativo con mayor mercado en los Estados Unidos en cuanto a dispositivos móviles o smartphones se refiere. ",
                     "tutorialUrl": "http://developers.do/post/8189452107/introduccion-desarrollo-de-apps-para-android",
                     "imageUrl": "http://media.tumblr.com/tumblr_lp2fouzBbv1qjthf4.png"
+                }, 
+                {
+                    "id": "2",
+                    "name": "Anatomia del DevDom Social App - Android",
+                    "description": "Esta es una guia de como esta hecha nuestra recien lanzada App para Android, la cual sera utilizada por los equipos que van a llevar es",
+                    "tutorialUrl": "http://developers.do/post/9214675955/anatomia-del-devdom-social-app-android",
+                    "imageUrl": "http://media.tumblr.com/tumblr_lqahoqjnwO1qjthf4.png"
                 }
             ]
         },
@@ -158,13 +165,6 @@
                     "description": "El instructivo va dirigido a aquellos miembros de la comunidad que están iniciando en el área de desarrollo, no es un instructivo avanzado, su objetivo es poder mostrar una introducción al análisis, implementación y desarrollo de una aplicación.",
                     "tutorialUrl": "http://developers.do/post/7855073335/instructivo-de-desarrollo-de-una-aplicacion",
                     "imageUrl": "http://media.tumblr.com/tumblr_loneuikXeu1qjthf4.jpg"
-                }, 
-                {
-                    "id": "2",
-                    "name": "Anatomia del DevDom Social App - Android",
-                    "description": "Esta es una guia de como esta hecha nuestra recien lanzada App para Android, la cual sera utilizada por los equipos que van a llevar es",
-                    "tutorialUrl": "http://developers.do/post/9214675955/anatomia-del-devdom-social-app-android",
-                    "imageUrl": "http://media.tumblr.com/tumblr_lqahoqjnwO1qjthf4.png"
                 }
             ]
         }
