@@ -176,7 +176,7 @@
 		"description": "Comunidad de Developers Dominicanos",
 		"url": "http://developers.do",
 		"twitter": "http://twitter.com/#!/@DevelopersDO",
-		"logo": ""
+		"logo": "http://js.developers.do/img_thmb/logo_devdom.png"
 	},
 	{
 		"id": "1", 
@@ -184,7 +184,7 @@
 		"description": "Blog para la comunidad dominicana, con un Staff especializado en áreas como: Gadgets & Tecnología, Productividad Empresarial & Educación.  Ven y Linkeate a nosotros!",
 		"url": "http://linkea.do",
 		"twitter": "https://twitter.com/#!/LinkeadoRD",
-		"logo": ""
+		"logo": "http://js.developers.do/img_thmb/logo_linkeado.png"
 	}
 ],
   "eventos" : [
