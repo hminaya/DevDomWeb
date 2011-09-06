@@ -165,7 +165,14 @@
           "description": "El instructivo va dirigido a aquellos miembros de la comunidad que están iniciando en el área de desarrollo, no es un instructivo avanzado, su objetivo es poder mostrar una introducción al análisis, implementación y desarrollo de una aplicación.",
           "tutorialUrl": "http://developers.do/post/7855073335/instructivo-de-desarrollo-de-una-aplicacion",
           "imageUrl": "http://media.tumblr.com/tumblr_loneuikXeu1qjthf4.jpg"
-        }
+        },
+        {
+          "id": 2,
+          "name": "Introducción al Desarrollo de Apps con Titanium Mobile",
+          "description": "Hoy en día el desarrollo de App móviles ha adquirido un gran auge, siendo uno de los temas de mayor atención por parte de los desarrolladores.",
+          "tutorialUrl": "http://developers.do/post/9832419520/introduccion-al-desarrollo-de-apps-con-titanium-mobile",
+          "imageUrl": "http://media.tumblr.com/tumblr_lr13vjXa5a1qjthf4.jpg"
+        }        
       ]
     }
   ],
