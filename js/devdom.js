@@ -172,7 +172,14 @@
           "description": "Hoy en día el desarrollo de App móviles ha adquirido un gran auge, siendo uno de los temas de mayor atención por parte de los desarrolladores.",
           "tutorialUrl": "http://developers.do/post/9832419520/introduccion-al-desarrollo-de-apps-con-titanium-mobile",
           "imageUrl": "http://media.tumblr.com/tumblr_lr13vjXa5a1qjthf4.jpg"
-        }        
+        },
+        {
+          "id": 3,
+          "name": "Triple-Boot tu MacBook Pro con Lion OS X, Win7 & Win8",
+          "description": "Como developers tenemos la tarea de crear aplicaciones para diferentes ambientes y plataformas. En el caso de las apps móviles tenemos WP7, Android, iOS, BB & otros.",
+          "tutorialUrl": "http://developers.do/post/10614315981/triple-boot-tu-macbook-pro-con-lion-os-x-win7-win8",
+          "imageUrl": "http://media.tumblr.com/tumblr_ls1rvxHZ5y1qjthf4.jpg"
+        }         
       ]
     }
   ],
