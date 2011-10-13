@@ -179,7 +179,14 @@
           "description": "Como developers tenemos la tarea de crear aplicaciones para diferentes ambientes y plataformas. En el caso de las apps móviles tenemos WP7, Android, iOS, BB & otros.",
           "tutorialUrl": "http://developers.do/post/10614315981/triple-boot-tu-macbook-pro-con-lion-os-x-win7-win8",
           "imageUrl": "http://media.tumblr.com/tumblr_ls1rvxHZ5y1qjthf4.jpg"
-        }         
+        },
+        {
+          "id": 4,
+          "name": "iOS 5 para Web Developers",
+          "description": "En el dia de ayer Apple ya libero el tan esperando iOS 5, el cual trajo consigo mas de 200 nuevos features y mejoras. Vamos a ver unas cuantas mejoras en lo que respecta al desarrollo de aplicaciones web.",
+          "tutorialUrl": "http://developers.do/post/11398708463/ios-5-para-web-developers",
+          "imageUrl": "http://media.tumblr.com/tumblr_lt0ggk5mYb1qjthf4.jpg"
+        }        
       ]
     }
   ],
