@@ -186,7 +186,14 @@
           "description": "En el dia de ayer Apple ya libero el tan esperando iOS 5, el cual trajo consigo mas de 200 nuevos features y mejoras. Vamos a ver unas cuantas mejoras en lo que respecta al desarrollo de aplicaciones web.",
           "tutorialUrl": "http://developers.do/post/11398708463/ios-5-para-web-developers",
           "imageUrl": "http://media.tumblr.com/tumblr_lt0ggk5mYb1qjthf4.jpg"
-        }        
+        },
+        {
+          "id": 5,
+          "name": "Programar para BlackBerry en MAC {Lion OS X}",
+          "description": "Hay momentos en que las tareas sencillas se vuelven realmente complicadas. Se me dio un caso parecido hace pocos dias cuando quise montar un ambiente para desarrollar de Blackberry en mi MacBook Pro y quiero compartirlo aqui con ustedes para que no vayan a pasar trabajo igual que yo.",
+          "tutorialUrl": "http://developers.do/post/11507637674/programar-para-blackberry-en-mac-lion-os-x",
+          "imageUrl": "http://media.tumblr.com/tumblr_lt50kc15CP1qjthf4.png"
+        }   
       ]
     }
   ],
