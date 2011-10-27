@@ -24,7 +24,7 @@
     },
     {
       "id": 0,
-      "categoryName": "jQuery",
+      "categoryName": "JavaScript & jQuery",
       "description": "el javascript framework mas popular",
       "imageUrl": "http://js.developers.do/img_thmb/jquery.png",
       "tutorials": [
@@ -55,6 +55,13 @@
           "description": "En el post anterior vimos cuales son las ventajas que se obtienen al usar un CDN para cargar la libreria de jQuery. Hoy veremos algunas otras opciones y configuraciones que puede utilizar para la misma.",
           "tutorialUrl": "http://developers.do/post/6250670039/opciones-para-cargar-jquery-desde-el-cdn",
           "imageUrl": "http://media.tumblr.com/tumblr_lmg3q56EQt1qjthf4.png"
+        },
+        {
+          "id": 5,
+          "name": "Vagamunderia del JavaScript | Alcance {Scope}",
+          "description": "JavaScript es uno de los lenguajes mas querido & odiado a la vez. Mucha de las frustaciones se deben a que los developers tratan de aplicar conocimientos adquiridos en otras plataformas. Veo este comportamiento especialmente con developers de Java & C# que se dejan llevar de que la syntax es la misma.",
+          "tutorialUrl": "http://developers.do/post/11975345125/vagamunderia-del-javascript-alcance-scope",
+          "imageUrl": "http://media.tumblr.com/tumblr_ltpatkajbT1qjthf4.png"
         }
       ]
     },
