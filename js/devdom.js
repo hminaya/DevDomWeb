@@ -214,7 +214,7 @@
 		"id": "0",
         "name": "Android BootCamp 101",
         "what": "Bootcamp para el desarrollo de aplicaciones en Android",
-        "when": ""
+        "when": "",
         "where": "",
         "url" : "http://developers.do/ANDROID"
 	},
@@ -222,7 +222,7 @@
 		"id": "1",
         "name": "Taller de Windows Phone 7",
         "what": ".... mas info pronto ....",
-        "when" : ""
+        "when" : "",
         "where": "",
         "url" : "http://developers.do"
 	}
