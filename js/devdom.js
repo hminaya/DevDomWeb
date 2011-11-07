@@ -24,7 +24,7 @@
     },
     {
       "id": 0,
-      "categoryName": "JavaScript & jQuery",
+      "categoryName": "jQuery",
       "description": "el javascript framework mas popular",
       "imageUrl": "http://js.developers.do/img_thmb/jquery.png",
       "tutorials": [
@@ -55,20 +55,6 @@
           "description": "En el post anterior vimos cuales son las ventajas que se obtienen al usar un CDN para cargar la libreria de jQuery. Hoy veremos algunas otras opciones y configuraciones que puede utilizar para la misma.",
           "tutorialUrl": "http://developers.do/post/6250670039/opciones-para-cargar-jquery-desde-el-cdn",
           "imageUrl": "http://media.tumblr.com/tumblr_lmg3q56EQt1qjthf4.png"
-        },
-        {
-          "id": 5,
-          "name": "Vagamunderia del JavaScript | Alcance {Scope}",
-          "description": "JavaScript es uno de los lenguajes mas querido & odiado a la vez. Mucha de las frustaciones se deben a que los developers tratan de aplicar conocimientos adquiridos en otras plataformas. Veo este comportamiento especialmente con developers de Java & C# que se dejan llevar de que la syntax es la misma.",
-          "tutorialUrl": "http://developers.do/post/11975345125/vagamunderia-del-javascript-alcance-scope",
-          "imageUrl": "http://media.tumblr.com/tumblr_ltpatkajbT1qjthf4.png"
-        },
-        {
-          "id": 6,
-          "name": "Sobrecarga en JavaScript",
-          "description": "Ayer vimos una de las frustraciones mas comunes de JavaScript al mezclarse el alcance de las variables y la confusión que puede traer, hoy veremos la sobrecarga. Algo muy común en lenguajes modernos es la sobrecarga de funciones y procedimientos.",
-          "tutorialUrl": "http://developers.do/post/11990787939/sobrecarga-en-javascript",
-          "imageUrl": "http://media.tumblr.com/tumblr_ltq9viGTQ11qjthf4.jpg"
         }
       ]
     },
@@ -193,21 +179,7 @@
           "description": "Como developers tenemos la tarea de crear aplicaciones para diferentes ambientes y plataformas. En el caso de las apps móviles tenemos WP7, Android, iOS, BB & otros.",
           "tutorialUrl": "http://developers.do/post/10614315981/triple-boot-tu-macbook-pro-con-lion-os-x-win7-win8",
           "imageUrl": "http://media.tumblr.com/tumblr_ls1rvxHZ5y1qjthf4.jpg"
-        },
-        {
-          "id": 4,
-          "name": "iOS 5 para Web Developers",
-          "description": "En el dia de ayer Apple ya libero el tan esperando iOS 5, el cual trajo consigo mas de 200 nuevos features y mejoras. Vamos a ver unas cuantas mejoras en lo que respecta al desarrollo de aplicaciones web.",
-          "tutorialUrl": "http://developers.do/post/11398708463/ios-5-para-web-developers",
-          "imageUrl": "http://media.tumblr.com/tumblr_lt0ggk5mYb1qjthf4.jpg"
-        },
-        {
-          "id": 5,
-          "name": "Programar para BlackBerry en MAC {Lion OS X}",
-          "description": "Hay momentos en que las tareas sencillas se vuelven realmente complicadas. Se me dio un caso parecido hace pocos dias cuando quise montar un ambiente para desarrollar de Blackberry en mi MacBook Pro y quiero compartirlo aqui con ustedes para que no vayan a pasar trabajo igual que yo.",
-          "tutorialUrl": "http://developers.do/post/11507637674/programar-para-blackberry-en-mac-lion-os-x",
-          "imageUrl": "http://media.tumblr.com/tumblr_lt50kc15CP1qjthf4.png"
-        }   
+        }         
       ]
     }
   ],
@@ -217,7 +189,7 @@
 		"name": "Developers Dominicanos",
 		"description": "Comunidad de Developers Dominicanos",
 		"url": "http://developers.do",
-		"twitter": "http://twitter.com/#!/@DevelopersDO",
+		"twitter": "@DevelopersDO",
 		"logo": "http://js.developers.do/img_thmb/logo_devdom.png"
 	},
 	{
@@ -225,8 +197,16 @@
 		"name": "Linkea.do",
 		"description": "Blog para la comunidad dominicana, con un Staff especializado en áreas como: Gadgets & Tecnología, Productividad Empresarial & Educación.  Ven y Linkeate a nosotros!",
 		"url": "http://linkea.do",
-		"twitter": "https://twitter.com/#!/LinkeadoRD",
+		"twitter": "@LinkeadoRD",
 		"logo": "http://js.developers.do/img_thmb/logo_linkeado.png"
+	},
+    {
+		"id": "2", 
+		"name": "Dominican Droids",
+		"description": "...",
+		"url": "http://dominicandroids.com",
+		"twitter": "@DominicanDroids",
+		"logo": ""
 	}
 ],
   "eventos" : [
