@@ -213,17 +213,19 @@
 	{
 		"id": "0",
         "name": "Android BootCamp 101",
-        "when": "Bootcamp para el desarrollo de aplicaciones en Android",
+        "what": "Bootcamp para el desarrollo de aplicaciones en Android",
+        "when": ""
         "where": "",
         "url" : "http://developers.do/ANDROID"
 	},
     {
 		"id": "1",
         "name": "Taller de Windows Phone 7",
-        "when": ".... mas info pronto ....",
+        "what": ".... mas info pronto ....",
+        "when" : ""
         "where": "",
         "url" : "http://developers.do"
-	},
+	}
 ],
  "noticias" : [
 	{
