@@ -242,5 +242,15 @@
 	{
 		"id": "1"
 	}
-]
+]	,
+	 "podcasts" : [
+		{
+			"id": "2", 
+			"name": "WikiTIRD",
+			"description": "WikiTI es una revista online sobre tecnología y como esta nos afecta en nuestra vida diaria.",
+			"url": "http://wikitird.com",
+			"twitter": "@wikitird",
+			"logo": ""
+		}
+	]
 }
