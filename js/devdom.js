@@ -185,7 +185,7 @@
   ],
   "comunidades": [
 	{
-		"id": "0", 
+		"id": "1", 
 		"name": "Developers Dominicanos",
 		"description": "Comunidad de Developers Dominicanos",
 		"url": "http://developers.do",
@@ -193,7 +193,7 @@
 		"logo": "http://js.developers.do/img_thmb/logo_devdom.png"
 	},
 	{
-		"id": "1", 
+		"id": "2", 
 		"name": "Linkea.do",
 		"description": "Blog para la comunidad dominicana, con un Staff especializado en áreas como: Gadgets & Tecnología, Productividad Empresarial & Educación.  Ven y Linkeate a nosotros!",
 		"url": "http://linkea.do",
@@ -201,7 +201,7 @@
 		"logo": "http://js.developers.do/img_thmb/logo_linkeado.png"
 	},
     {
-		"id": "2", 
+		"id": "3", 
 		"name": "Dominican Droids",
 		"description": "...",
 		"url": "http://dominicandroids.com",
@@ -211,7 +211,7 @@
 ],
   "eventos" : [
 	{
-		"id": "0",
+		"id": "1",
         "name": "Android BootCamp 101",
         "what": "Bootcamp para el desarrollo de aplicaciones en Android",
         "when": "",
@@ -219,7 +219,7 @@
         "url" : "http://developers.do/ANDROID"
 	},
     {
-		"id": "1",
+		"id": "2",
         "name": "Taller de Windows Phone 7",
         "what": ".... mas info pronto ....",
         "when" : "",
@@ -229,23 +229,23 @@
 ],
  "noticias" : [
 	{
-		"id": "0"
+		"id": "1"
 	},
 	{
-		"id": "1"
+		"id": "2"
 	}
 ],
  "empleos" : [
 	{
-		"id": "0"
+		"id": "1"
 	},
 	{
-		"id": "1"
+		"id": "2"
 	}
 ]	,
 	 "podcasts" : [
 		{
-			"id": "2", 
+			"id": "1", 
 			"name": "WikiTIRD",
 			"description": "WikiTI es una revista online sobre tecnología y como esta nos afecta en nuestra vida diaria.",
 			"url": "http://wikitird.com",
