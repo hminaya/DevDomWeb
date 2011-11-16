@@ -206,7 +206,7 @@
 		"description": "...",
 		"url": "http://dominicandroids.com",
 		"twitter": "@DominicanDroids",
-		"logo": ""
+		"logo": "http://js.developers.do/img_thmb/logo_domdroids.png"
 	}
 ],
   "eventos" : [
@@ -250,7 +250,7 @@
 			"description": "WikiTI es una revista online sobre tecnología y como esta nos afecta en nuestra vida diaria.",
 			"url": "http://wikitird.com",
 			"twitter": "@wikitird",
-			"logo": ""
+			"logo": "http://js.developers.do/img_thmb/logo_wikitird.png"
 		}
 	]
 }
