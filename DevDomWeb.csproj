@@ -83,6 +83,7 @@
     <Content Include="img_thmb\lock.png" />
     <Content Include="img_thmb\logo_devdom.png" />
     <Content Include="img_thmb\logo_linkeado.png" />
+    <Content Include="img_thmb\logo_wikitird.png" />
     <Content Include="js\code.js" />
     <Content Include="js\code-min.js" />
     <Content Include="js\tmb.js" />
