@@ -271,10 +271,10 @@
 		{
 			"id": "4", 
 			"name": "WikiTIRD - Episodio 04",
-			"description": "Aquí llega el esperado Podcast 4, esta vez con la falta de nuestro querido Marco Feliz(Estuvo teniendo problemas del estomago y no pudo asistir), pero en vez de esa voz masculina de mero macho, nos secuestramos a nuestra invitada, la fuimos a buscar, esperamos que se cambiara y recibimos uno que otro de esos boche legendarios, le hablamos de la chica con mas querellas en Developers Do(Mito Urbano), de nuestra invitada de la semana,  Amelvis Franco una desarrolladora .net, que nos dio su perspectiva feminana y windowsiana :).",
+			"description": "Aquí llega el esperado Podcast 4, esta vez con la falta de nuestro querido Marco Feliz(Estuvo teniendo problemas del estomago y no pudo asistir), pero en vez de esa voz masculina de mero macho, nos secuestramos a nuestra invitada, la fuimos a buscar, esperamos que se cambiara y recibimos uno que otro de esos boche legendarios, le hablamos de la chica con mas querellas en Developers Do (Mito Urbano), de nuestra invitada de la semana,  Amelvis Franco una desarrolladora .net, que nos dio su perspectiva feminana y windowsiana :)",
 			"url": "http://wikitird.com/2011/11/15/podcast-episodio-04/",
 			"twitter": "@wikitird",
 			"logo": "http://js.developers.do/img_thmb/logo_wikitird.png"
-		},
+		}
 	]
 }
