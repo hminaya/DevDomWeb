@@ -172,7 +172,9 @@
           "description": "Como developers tenemos la tarea de crear aplicaciones para diferentes ambientes y plataformas. En el caso de las apps móviles tenemos WP7, Android, iOS, BB & otros.",
           "tutorialUrl": "http://developers.do/post/10614315981/triple-boot-tu-macbook-pro-con-lion-os-x-win7-win8",
           "imageUrl": "http://media.tumblr.com/tumblr_ls1rvxHZ5y1qjthf4.jpg"
-        },
+        }
+	     ]
+	   },
 	    {
 	      "id": 6,
 	      "categoryName": "Otros",
@@ -185,7 +187,7 @@
 	          "description": "El instructivo va dirigido a aquellos miembros de la comunidad que están iniciando en el área de desarrollo, no es un instructivo avanzado, su objetivo es poder mostrar una introducción al análisis, implementación y desarrollo de una aplicación.",
 	          "tutorialUrl": "http://developers.do/post/7855073335/instructivo-de-desarrollo-de-una-aplicacion",
 	          "imageUrl": "http://media.tumblr.com/tumblr_loneuikXeu1qjthf4.jpg"
-	        }       
+	     }       
       ]
     }
   ],
