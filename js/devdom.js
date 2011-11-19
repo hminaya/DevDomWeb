@@ -246,11 +246,35 @@
 	 "podcasts" : [
 		{
 			"id": "1", 
-			"name": "WikiTIRD",
-			"description": "WikiTI es una revista online sobre tecnología y como esta nos afecta en nuestra vida diaria.",
-			"url": "http://wikitird.com",
+			"name": "WikiTIRD - Episodio 1 (nuestro pequeño bebe)",
+			"description": "Este es nuestro podcast introductorio, semana tras semana iremos agregando nuevos podcasts, escúchanos…",
+			"url": "http://wikitird.com/2011/10/18/podcast-episodio-1-nuestro-pequeno-bebe/",
 			"twitter": "@wikitird",
 			"logo": "http://js.developers.do/img_thmb/logo_wikitird.png"
-		}
+		},
+		{
+			"id": "2", 
+			"name": "WikiTIRD - Episodio 02",
+			"description": "Esperamos que lo disfruten tanto como nosotros grabandolo para ustedes. Agradecemos la participación del Sr. Elminson de Oleo por permitirnos esta magnifica entrevista.",
+			"url": "http://wikitird.com/2011/10/25/podcast-episodio-02/",
+			"twitter": "@wikitird",
+			"logo": "http://js.developers.do/img_thmb/logo_wikitird.png"
+		},
+		{
+			"id": "3", 
+			"name": "WikiTIRD - Episodio 03",
+			"description": "El esperado Podcast 3 aqui esta que lo disfruten… :D invitado de la semana : Hector Minaya",
+			"url": "http://wikitird.com/2011/11/01/podcast-episodio-03/",
+			"twitter": "@wikitird",
+			"logo": "http://js.developers.do/img_thmb/logo_wikitird.png"
+		},
+		{
+			"id": "4", 
+			"name": "WikiTIRD - Episodio 04",
+			"description": "Aquí llega el esperado Podcast 4, esta vez con la falta de nuestro querido Marco Feliz(Estuvo teniendo problemas del estomago y no pudo asistir), pero en vez de esa voz masculina de mero macho, nos secuestramos a nuestra invitada, la fuimos a buscar, esperamos que se cambiara y recibimos uno que otro de esos boche legendarios, le hablamos de la chica con mas querellas en Developers Do(Mito Urbano), de nuestra invitada de la semana,  Amelvis Franco una desarrolladora .net, que nos dio su perspectiva feminana y windowsiana :).",
+			"url": "http://wikitird.com/2011/11/15/podcast-episodio-04/",
+			"twitter": "@wikitird",
+			"logo": "http://js.developers.do/img_thmb/logo_wikitird.png"
+		},
 	]
 }
