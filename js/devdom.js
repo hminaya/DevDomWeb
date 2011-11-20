@@ -3,7 +3,7 @@
     {
       "id": 0,
       "categoryName": "Seguridad",
-      "description": "Seguridad en el desarrollo de software",
+      "description": "Protegete contra vulnerabilidades practicando correctamente la seguridad en el desarrollo de software",
       "imageUrl": "http://js.developers.do/img_thmb/lock.png",
       "tutorials": [
         {
@@ -25,7 +25,7 @@
     {
       "id": 0,
       "categoryName": "jQuery",
-      "description": "el javascript framework mas popular",
+      "description": "El javascript framework mas popular, utilizado en miles de websites a nivel mundial",
       "imageUrl": "http://js.developers.do/img_thmb/jquery.png",
       "tutorials": [
         {
@@ -61,7 +61,7 @@
     {
       "id": 1,
       "categoryName": "Java",
-      "description": "Tutoriales y articulos sobre Java",
+      "description": "Tutoriales y articulos generales sobre Java",
       "imageUrl": "http://js.developers.do/img_thmb/sun-java.png",
       "tutorials": [
         {
@@ -83,8 +83,8 @@
     {
       "id": 2,
       "categoryName": "ASP.NET",
-      "description": "ASP.NET MVC & Webforms",
-      "imageUrl": "http://js.developers.do/img_thmb/wp7.png",
+      "description": "Todo sobre el stack de asp.net, incluyendo asp.net mvc y webforms",
+      "imageUrl": "http://js.developers.do/img_thmb/aspnet.png",
       "tutorials": [
         {
           "id": 1,
@@ -112,7 +112,7 @@
     {
       "id": 3,
       "categoryName": "Android",
-      "description": "Android Development",
+      "description": "Desarrollo mobile enfocado a Android, uno de los sistemas operativas mas importantes en el mercado actualmente",
       "imageUrl": "http://js.developers.do/img_thmb/android-48x48.png",
       "tutorials": [
         {
@@ -134,7 +134,7 @@
     {
       "id": 4,
       "categoryName": "WP7",
-      "description": "Windows Phone 7",
+      "description": "El Windows Phone 7 con su Metro UI es una de las plataformas mobile que se proyecta tendra mas crecimiento en los proximos años",
       "imageUrl": "http://js.developers.do/img_thmb/wp7.png",
       "tutorials": [
         {

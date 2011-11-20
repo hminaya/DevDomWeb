@@ -79,6 +79,7 @@
     <Content Include="img_thmb\jquery.png" />
     <Content Include="img_thmb\sun-java.png" />
     <Content Include="img_thmb\wp7.png" />
+    <Content Include="img_thmb\aspnet.png" />
     <Content Include="img_thmb\apple.png" />
     <Content Include="img_thmb\other.png" />
     <Content Include="img_thmb\lock.png" />
