@@ -47,7 +47,7 @@
           "name": "Opciones para cargar jQuery desde el CDN",
           "description": "Opciones para cargar jQuery desde el CDN",
           "tutorialUrl": "http://tumblr.com/xq32vdhjvb",
-          "imageUrl": "http://online.coombeshead.devon.sch.uk/news_events/10/images/options.jpg"
+          "imageUrl": "http://media.tumblr.com/tumblr_luzexlZCLk1qjthf4.png"
         },
         {
           "id": 4,
