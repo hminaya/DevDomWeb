@@ -23,7 +23,7 @@
       ]
     },
     {
-      "id": 0,
+      "id": 1,
       "categoryName": "jQuery",
       "description": "el javascript framework mas popular",
       "imageUrl": "http://js.developers.do/img_thmb/jquery.png",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "categoryName": "Java",
       "description": "Tutoriales y articulos sobre Java",
       "imageUrl": "http://js.developers.do/img_thmb/sun-java.png",
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "categoryName": "ASP.NET",
       "description": "ASP.NET MVC & Webforms",
       "imageUrl": "http://js.developers.do/img_thmb/wp7.png",
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "categoryName": "Android",
       "description": "Android Development",
       "imageUrl": "http://js.developers.do/img_thmb/android-48x48.png",
@@ -132,9 +132,9 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "categoryName": "WP7",
-      "description": "Windows Phone 7",
+      "description": "Desarrollo de aplicaciones para Windows Phone 7 Mango",
       "imageUrl": "http://js.developers.do/img_thmb/wp7.png",
       "tutorials": [
         {
@@ -150,11 +150,18 @@
           "description": "La plataforma de desarrollo de aplicaciones móviles para Windows Phone 7 ha estado en apogeo en los últimos meses y desde su lanzamiento hace poco menos de un año,",
           "tutorialUrl": "http://developers.do/post/7885367281/introduccion-al-desarrollo-de-apps-para-el-windows",
           "imageUrl": "http://media.tumblr.com/tumblr_loo2q9Slhw1qjthf4.jpg"
+        },
+{
+          "id": 3,
+          "name": "Instalar el Windows Phone SDK 7.1 {Mango}",
+          "description": "Este es un breve post sobre como instalar el SDK para desarrollar apps para Windows Phone 7 y servirá como apoyo para el taller de WP7 que estaremos llevando a cabo el martes 22 en las oficinas de Microsoft Dominicana.",
+          "tutorialUrl": "http://developers.do/post/12954397697/instalar-el-windows-phone-sdk-7-1-mango",
+          "imageUrl": "http://media.tumblr.com/tumblr_luu5jufIfA1qjthf4.png"
         }
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "categoryName": "Apple",
       "description": "Hablemos de iOS, Lion OS X y el desarrollo para mac en general",
       "imageUrl": "http://js.developers.do/img_thmb/apple.png",
@@ -176,7 +183,7 @@
 	     ]
 	   },
 	    {
-	      "id": 6,
+	      "id": 7,
 	      "categoryName": "Otros",
 	      "description": "Mas tutoriales",
 	      "imageUrl": "http://js.developers.do/img_thmb/other.png",
