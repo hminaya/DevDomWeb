@@ -142,6 +142,13 @@
           "description": "Esta es una guia de como esta hecha nuestra recien lanzada App para Android, la cual sera utilizada por los equipos que van a llevar es",
           "tutorialUrl": "http://developers.do/post/9214675955/anatomia-del-devdom-social-app-android",
           "imageUrl": "http://media.tumblr.com/tumblr_lqahoqjnwO1qjthf4.png"
+        },
+        {
+          "id": 3,
+          "name": "Instalar el Android SDK & ADT",
+          "description": "Este sábado tenemos un BootCamp de Android para los miembros de la comunidad de Developers Dominicanos, como apoyo del mismo le dejamos aquí este post para que instalen el SDK y tengan sus ambientes de trabajo listos.",
+          "tutorialUrl": "http://developers.do/post/13216089392/instalar-el-android-sdk-adt",
+          "imageUrl": "http://media.tumblr.com/tumblr_lv4fpqSerc1qjthf4.png"
         }
       ]
     },
