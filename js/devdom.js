@@ -325,6 +325,14 @@
 			"url": "http://wikitird.com/2011/11/15/podcast-episodio-04/",
 			"twitter": "@wikitird",
 			"logo": "http://js.developers.do/img_thmb/logo_wikitird.png"
-		}
+		}	,
+			{
+				"id": "5", 
+				"name": "WikiTIRD - Episodio 05",
+				"description": "Aquí llega nuestro quinto episodio, con  Carlos Vasquez de Developers.do como el Invitado de la quincena, en esta entrega vamos a ver algunos de los aspectos relacionado con este personaje, Windows Phone, Bada, Android, los Bootcamp celebrados recientemente por parte de Developers Dominicano y las ferias que han estando realizando las universidades, esperamos que lo difruten!",
+				"url": "http://wikitird.com/2011/11/29/podcast-episodio-05/",
+				"twitter": "@wikitird",
+				"logo": "http://js.developers.do/img_thmb/logo_wikitird.png"
+			}
 	]
 }
