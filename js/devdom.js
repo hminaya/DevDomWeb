@@ -334,5 +334,14 @@
 				"twitter": "@wikitird",
 				"logo": "http://js.developers.do/img_thmb/logo_wikitird.png"
 			}
+			,
+			{
+				"id": "6", 
+				"name": "WikiTIRD - Episodio 06",
+				"description": "Despues de muchas reuniones, citas, conferencias internacionales (mentira todas han sido en el patio :P) y demas ya esta aqui el Podcast Episodio 6… :D si estas tan animado como nosotros es porque te ha gustando nuestro trabajo.  Puedes enviarnos tus saludos, dudas, sugerencias y aportes a info@wikitird.com y mantente en sintonia con el programa.",
+				"url": "http://wikitird.com/2011/12/13/podcast-episodio-06/",
+				"twitter": "@wikitird",
+				"logo": "http://js.developers.do/img_thmb/logo_wikitird.png"
+			}
 	]
 }
