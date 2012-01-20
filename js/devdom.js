@@ -69,6 +69,13 @@
           "description": "Algo muy común en lenguajes modernos es la sobrecarga de funciones y procedimientos. En javascript NO podemos hacerlo directamente. ",
           "tutorialUrl": "http://developers.do/post/11990787939/sobrecarga-en-javascript",
           "imageUrl": "http://media.tumblr.com/tumblr_ltq9viGTQ11qjthf4.jpg"
+        },
+        {
+          "id": 7,
+          "name": "JavaScript: {} + [] != [] + {} —> wat!!!!",
+          "description": "Anteriormente (1, 2) hemos visto algunas de las incongruencias en JavaScript que pueden parecerle ilógicas a la mayoría de programadores. Aquí le traigo algunas adicionales. ",
+          "tutorialUrl": "http://developers.do/post/16178742453/javascript-wat",
+          "imageUrl": "http://media.tumblr.com/tumblr_ly3zi7bAPi1qjthf4.png"
         }
       ]
     },
