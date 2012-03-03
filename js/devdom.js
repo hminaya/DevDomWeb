@@ -76,6 +76,13 @@
           "description": "Anteriormente (1, 2) hemos visto algunas de las incongruencias en JavaScript que pueden parecerle ilógicas a la mayoría de programadores. Aquí le traigo algunas adicionales. ",
           "tutorialUrl": "http://developers.do/post/16178742453/javascript-wat",
           "imageUrl": "http://media.tumblr.com/tumblr_ly3zi7bAPi1qjthf4.png"
+        },
+        {
+          "id": 8,
+          "name": "Instalar node.js",
+          "description": "Con este post iniciamos una introducción a node.js, una plataforma emergente que trajo la flexibilidad y dinamismo de JavaScript al servidor. Al ser una plataforma joven vamos a encontrarnos con muchas novedades y cambia la forma en la que estamos acostumbrados a trabajar, así que deben mantener una mente abierta y libre de prejuicios.",
+          "tutorialUrl": "http://developers.do/post/18262219889/instalar-node-js",
+          "imageUrl": "http://media.tumblr.com/tumblr_lzynr4SQwr1qjthf4.png"
         }
       ]
     },
