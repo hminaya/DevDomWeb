@@ -134,6 +134,13 @@
           "description": "En un proyecto mvc app nuevo que se llamaría “CodeFirstScaffoldingTutorial” ve a la consola de NuGet ( Tools > Library Package Manager > Package Manager Console ) y escribe",
           "tutorialUrl": "http://developers.do/post/9275075828/scaffolding-en-mvc3-con-sumajestadjose",
           "imageUrl": "http://media.tumblr.com/tumblr_lqcxrd8Xbr1qjthf4.gif"
+        },
+        {
+          "id": 4,
+          "name": "ASP.NET Web API : Intro",
+          "description": "ASP.NET MVC 4 aun esta en beta, pero ya podemos sacarle provecho a la mayoría de los features que trae consigo. Uno muy interesante es el de Web API, hoy en día todo en la web es un API.",
+          "tutorialUrl": "http://developers.do/index.php/asp-net-web-api-intro/",
+          "imageUrl": "http://developers.do/wp-content/uploads/2012/04/API-300x212.jpg"
         }
       ]
     },
